@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @glitterhippie
 - 👀 I’m interested in backend, databases, UX, Linux
-- 🌱 I’m currently learning object oriented programming
+- 🌱 I’m currently learning object oriented programming (PHP, Java)
 - 💞️ If you would like to collaborate just send me a message
-- 📫 Reach me through https://www.glitterhippie.nl/
+- 📫 Reach me through www.glitterhippie.nl
 
 <!---
 glitterhippie/glitterhippie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
