@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @glitterhippie
-- 👀 I’m interested in backend, databases, UX, Linux
-- 🌱 I’m currently learning object oriented programming (PHP, Java)
+- 👀 I’m interested in software engineering & IoT
+- 🌱 I’m currently studying computer science
 - 💞️ If you would like to collaborate just send me a message
 - 📫 Reach me through www.glitterhippie.nl
 
