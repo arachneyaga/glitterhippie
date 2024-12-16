@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @glitterhippie
+- 👋 Hi, I’m Arachne
 - 👀 I’m interested in software engineering & IoT
-- 🌱 I’m currently studying computer science
 - 💞️ If you would like to collaborate just send me a message
-- 📫 Reach me through www.glitterhippie.nl
 
 <!---
 glitterhippie/glitterhippie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
